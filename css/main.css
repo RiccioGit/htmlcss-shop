@@ -42,6 +42,14 @@ z-index: 0;
   top: 0;
 }
 
+.box .cuore  {
+  display: none;
+}
+
+.box:hover .cuore {
+  display: block;
+}
+
 /* riga A */
 
 .riga-a {
