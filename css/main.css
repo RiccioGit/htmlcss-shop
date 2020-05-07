@@ -1,0 +1,53 @@
+/* intestazione css */
+
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.riga {
+width: 70%;
+height: 70%;
+/* margin: 20px; */
+}
+
+.box {
+  background-color: lightblue;
+  width: 350px;
+  height: 410px;
+  text-align: center;
+}
+
+img {
+display: inline-block;
+}
+/* riga A */
+
+.riga-a {
+  background: lightgray;
+  border: 3px solid black;
+}
+
+.box1a {
+
+}
+
+.box2a {
+  position: absolute;
+  top: 3px;
+  left: 330px;
+}
+
+.box3a {
+  position: absolute;
+  top: 3px;
+  left: 660px;
+}
+
+/* riga B */
+
+.riga-b {
+  background: lightgray;
+  border: 3px solid black;
+}
