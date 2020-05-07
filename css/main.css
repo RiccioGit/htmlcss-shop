@@ -50,4 +50,12 @@ display: inline-block;
 .riga-b {
   background: lightgray;
   border: 3px solid black;
+  position: absolute;
+  top: 60%;
 }
+
+/* .box2b {
+  position: absolute;
+  top: 3px;
+  left: 330px;
+} */
