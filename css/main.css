@@ -29,14 +29,17 @@ z-index: 0;
   height: 20px;
   z-index: 2;
   position: absolute;
-  right: 0%
-  bottom: 200%
+  right: 0;
+  top: 0;
 }
 
 .sconto5 {
   background-color: red;
   width: 40px;
   height: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 /* riga A */
