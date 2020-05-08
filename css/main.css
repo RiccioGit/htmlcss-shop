@@ -11,6 +11,11 @@ width: 68%;
 /* z-index: 0; */
 }
 
+#container {
+  width: 100%;
+  margin-left: 60px;
+}
+
 .box {
   background-color: lightblue;
   width: 350px;
