@@ -20,14 +20,17 @@ width: 68%;
   padding: 25px 20px;
   /* z-index: 1; */
   position:relative;
-
 }
 
 .cuore {
   color: red;
   font-size: 30px;
   font-weight: 200;
-
+  text-align: center;
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  width: 100%;
 }
 
 .sconto30 {
@@ -63,7 +66,6 @@ width: 68%;
   background: lightgray;
   /* border: 3px solid black; */
 }
-
 
 /* riga B */
 
